@@ -1,0 +1,3 @@
+telegram_token: "7241597131:AAHtOjekiZxURUEfraDO0TAriJCGH5y0aAM"
+allowed_telegram_usernames: [] 
+PROXY : http://localhost:8080
